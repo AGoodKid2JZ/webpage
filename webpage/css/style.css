@@ -1,0 +1,48 @@
+
+#title {
+    font-size: 190%;
+    text-align: center;
+    padding: 20px;
+    position: center;
+    margin: 50px;
+    font-family: "Bauhaus 93";
+}
+
+.menu {
+    height: 30px;
+    width: 80px;
+    border-style: solid;
+    font-size: 20px;
+    padding: 10px 25px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+
+#img1 {
+    width:35%;
+    height:35%;
+    border-style: solid;
+    margin: 200px;
+    position: relative;
+    bottom: 160px;
+    float: right;
+   
+}
+
+#img2 {
+    width: 100%;
+    max-width: 283px;
+    margin-top: 50px;
+    border: 1px solid #d6d6d6;
+    height: 194px;
+
+}
+
+#introtext {
+    display: block;
+    padding: 0;
+    text-align: justify;
+
+}
