@@ -1,0 +1,77 @@
+
+#title {
+    font-size: 190%;
+    text-align: center;
+    padding: 20px;
+    position: center;
+    margin: 50px;
+    font-family: "Bauhaus 93", sans-serif;
+}
+
+.menu>ul>li {
+    display: inline;
+    height: 30px;
+    width: 30px;
+    border-style: solid;
+    border-color: coral;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+}
+
+
+#img1 {
+    width:35%;
+    height:35%;
+    border-style: solid;
+    margin: 200px;
+    position: relative;
+    bottom: 160px;
+    float: right;
+   
+}
+
+#img2 {
+    width: 100%;
+    max-width: 283px;
+    margin-top: 50px;
+    border: 1px solid #d6d6d6;
+    height: 194px;
+
+}
+
+#introtext {
+    display: block;
+    padding: 0;
+    text-align: justify;
+
+}
+
+.mainbox {
+    background-color: coral;
+    width: 800px;
+    margin: auto;
+}
+
+.footer {
+    background-color: cadetblue;
+}
+
+.rightside {
+    background-color: aliceblue;
+    width: 100px;
+    float: left;
+}
+
+
+.leftside {
+    background-color: darkgreen;
+    width: 100px;
+    float: left;
+}
+
+.main {
+    background-color: darkkhaki;
+    width: 600px;
+    float: left;
+}
